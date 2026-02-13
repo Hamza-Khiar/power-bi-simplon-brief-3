@@ -1,1 +1,1 @@
-# Ce Project concerne l'analyse des donnés dans des feuilles excels differents afin de répondre à des questions métiers
+Ce tableau de bord et les autres pages présentent différents graphiques et tableaux illustrant les différentes mesures et rapports clés concernant les ventes, les  5 principaux clients et l'évolution du chiffre d'affaires (CA), les 10 catégories de produits qui génèrent le plus de CA et les 10 produits les plus vendus. 
